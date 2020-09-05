@@ -1,0 +1,31 @@
+.Heading {
+    color: gold;
+    text-align: center;
+    font-size: 80px;
+    ;
+
+}
+.Heading-2 {
+    color:gold;
+    text-align: center;
+    font-size: 60px;
+
+}
+
+#Title {
+    Color: Orange;
+    text-align: center;
+    font-size: 100px;
+}
+
+.topnav {
+    text-align: centre;
+    font-size: 30px; 
+    color: orangered;
+
+}
+
+.bg-image {
+    /* The image used */
+    background-image:url("C:\Users\pdram\Desktop\Black-Codher\portfolio\nasa-earth.jpg");
+}
